@@ -1,0 +1,2 @@
+# Python-object-tracker
+a python based software that is offering high-performance optical tracking at the most affordable prices in the industry. The product line will include a lightweight motion capture software and high-speed tracking cameras, as well as hardware independent alternatives. Aims to provide services to be Used by facilities worldwide in a variety of markets ranging from film and games to sports training, road transport authorities and biomechanics.
